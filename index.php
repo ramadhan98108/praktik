@@ -13,7 +13,7 @@ if (isset($_SESSION['username'])) {
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>BARBER.GO</title>
+	<title>kasa</title>
 	
 		<style type="text/css">
 	@font-face{
